@@ -11,7 +11,7 @@ export const sites = [
     key: "alwaqt-alnajeh",
     name: "Al Waqt Al Nageh Construction and Buildings",
     receiverEmail: "moh246samy@gmail.com",
-    allowedOrigins: ["http://localhost:5173"],
+    allowedOrigins: ["http://www.n-alnageh.com", "https://www.n-alnageh.com", "https://n-alnageh.com"],
     brandColor: "#0A1795",
   },
   {
