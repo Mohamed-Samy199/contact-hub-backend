@@ -10,15 +10,19 @@ export const sites = [
   {
     key: "alwaqt-alnajeh",
     name: "Al Waqt Al Nageh Construction and Buildings",
-    receiverEmail: "moh246samy@gmail.com",
+    receiverEmail: "info@n-alnageh.com",
     allowedOrigins: ["http://www.n-alnageh.com", "https://www.n-alnageh.com", "https://n-alnageh.com"],
     brandColor: "#0A1795",
   },
   {
     key: "3mo",
     name: "3mo",
-    receiverEmail: "mooh246samy@gmail.com",
-    allowedOrigins: ["http://localhost:5173"],
-    brandColor: "#0bb235",
+    receiverEmail: "moh246samy@gmail.com",
+    allowedOrigins: [
+      "http://localhost:3000",
+      "https://3modev.com",
+      "https://www.3modev.com",
+    ],
+    brandColor: "#71BC70",
   },
 ];
